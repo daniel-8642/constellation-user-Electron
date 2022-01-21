@@ -1,0 +1,13 @@
+{
+  "name": "constellation-user-Electron",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "王海涛 <859926750@qq.com>",
+  "license": "GPL",
+  "devDependencies": {
+    "electron": "^16.0.7"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
